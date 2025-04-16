@@ -1,1 +1,22 @@
-
+File Structure:
+/app
+  /components
+    /ui
+      Button.tsx
+      Avatar.tsx
+    /layout
+      Navbar.tsx
+      Footer.tsx
+    /sections
+      Hero.tsx
+      Features.tsx
+      Testimonials.tsx
+  /styles
+    globals.css
+  layout.tsx
+  page.tsx
+  favicon.ico
+/public
+  /placeholder
+tsconfig.json
+package.json
