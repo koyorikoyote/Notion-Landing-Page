@@ -2,7 +2,7 @@
 
 Notion-style landing page with a clean, minimalistic look and with shadcn UI inspired Testimonials section.
 
-This is a Next.JS Application using Typescript and NextJS 14 standards and using APP Router.
+This is a Next.JS Application using Typescript, Tailwind CSS and NextJS 14 standards and using APP Router.
 
 # Screenshots below:
 
