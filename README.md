@@ -26,3 +26,7 @@ File Structure:
   /placeholder
 tsconfig.json
 package.json
+
+![screenshot](Screenshots/Screenshot 1.png)
+![screenshot](Screenshots/Screenshot 2.png)
+![screenshot](Screenshots/Screenshot 3.png)
