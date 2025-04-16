@@ -27,6 +27,6 @@ File Structure:
 tsconfig.json
 package.json
 
-![screenshot](Screenshots/Screenshot 1.png)
-![screenshot](Screenshots/Screenshot 2.png)
-![screenshot](Screenshots/Screenshot 3.png)
+![Screenshot1](Screenshots/Screenshot1.png)
+![Screenshot2](Screenshots/Screenshot2.png)
+![Screensho3](Screenshots/Screenshot3.png)
