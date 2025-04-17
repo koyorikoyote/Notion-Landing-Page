@@ -17,7 +17,7 @@ const TestimonialCard: React.FC<TestimonialCardProps> = ({ badge, quote, author 
       <div className="absolute top-[-12px] right-6 bg-black text-white text-xs py-1 px-2.5 rounded-full font-medium tracking-wide">
         &nbsp;{badge}&nbsp;
       </div>
-      
+      <br></br>
       <div className="text-5xl leading-none text-black/5 font-serif absolute top-[-24px] left-[-12px]">
         "
       </div>
