@@ -1,6 +1,6 @@
 # Notion-Landing-Page
 
-Notion-style landing page with a clean, minimalistic look and with shadcn UI inspired Testimonials section.
+Notion-style landing page with a clean, minimalistic look and with shadcn UI inspired Testimonials section for a workspace product.
 
 This is a web demo Next.JS application using Typescript, Tailwind CSS and NextJS standards using APP Router.
 
