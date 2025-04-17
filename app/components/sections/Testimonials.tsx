@@ -61,7 +61,7 @@ const Testimonials: React.FC = () => {
       }
     },
     {
-      badge: 'Product',
+      badge: 'Product Manager',
       quote: 'I\'ve tried dozens of productivity tools, but this is the only one that actually stuck. The interface is intuitive and distraction-free. Perfect for organizing complex projects.',
       author: {
         initials: 'ML',
