@@ -15,7 +15,7 @@ const TestimonialCard: React.FC<TestimonialCardProps> = ({ badge, quote, author 
   return (
     <div className="bg-white rounded-xl p-8 relative h-full border border-black/5 shadow-sm transition-all duration-200 hover:translate-y-[-5px] hover:shadow-md hover:border-black/10 group">
       <div className="absolute top-[-12px] right-6 bg-black text-white text-xs py-1 px-2.5 rounded-full font-medium tracking-wide">
-        {badge}
+        &nbsp;{badge}&nbsp;
       </div>
       
       <div className="text-5xl leading-none text-black/5 font-serif absolute top-[-24px] left-[-12px]">
@@ -23,7 +23,7 @@ const TestimonialCard: React.FC<TestimonialCardProps> = ({ badge, quote, author 
       </div>
       
       <p className="text-base text-gray-900 mb-7 leading-relaxed relative z-10">
-        {quote}
+        &emsp;&emsp;{quote}
       </p>
       
       <div className="flex items-center mt-auto border-t border-black/5 pt-5">
