@@ -19,7 +19,7 @@ const TestimonialCard: React.FC<TestimonialCardProps> = ({ badge, quote, author 
       </div>
       <br></br>
       <div className="text-5xl leading-none text-black/5 font-serif absolute top-[-24px] left-[-12px]">
-        "
+        &quot;
       </div>
       
       <p className="text-base text-gray-900 mb-7 leading-relaxed relative z-10">
